@@ -1,0 +1,70 @@
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #e8e2e2;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #687373;
+            color: #2e0606;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #be2020;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(59, 228, 21, 0.1);
+        }
+
+        h1, h2 {
+            color: #1c1313;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #a4bec2;
+        }
+
+        .interests {
+            margin-top: 20px;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        footer {
+            background-color: #3fb6de;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .fa-instagram {
+            background: #e51441;
+            color: white;
+        }
+        .fa-facebook {
+            background: #3B5998;
+            color: white;
+        }
+        .fa-linkedin {
+            background: #007bb5;
+            color: white;
+        }
+        
+
+
